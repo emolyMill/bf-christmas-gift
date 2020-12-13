@@ -1,2 +1,2 @@
-# bf-christmas-gift
+# README
 This is a project I made for my boyfriend as one of my Christmas presents to him. I know you guys may not think of this as "coding," but to me I wanted to do something to put a smile on his cute face, and I don't care about anyone else's opinions. Do I call this a message forum? A message archive? Basically, if you want to be fancy yet cryptic with someone, you can use this code to make the things you want to say to someone a "game." If you guys use anything like this to help w a project that is larger or smaller in length and/or context and come across this, please reference me. I'll be v upset, if you do not. Happy coding!
